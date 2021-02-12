@@ -1,0 +1,56 @@
+React
+=====
+
+    - React is the javascript library.
+    - React given by facebook.
+    - React categorized into following types.
+        1) ReactJS
+        2) React Native
+        3) React Bootstrap
+    - ReactJS, used to develop the web applications.
+    - React Native used to develop the mobile applications.
+    - React Bootstrap used to apply the Rich UI to both Web applications 
+    and mobile applications.
+    - we will develop ReactJS applications in two ways.
+        1) JSX
+        2) Typescript
+    - JSX stands for javascript and xml.
+    - JSX is not the programming language.
+    - JSX won't follows the OOPS.
+    - Typescript is the Programming Language.
+    - Typescript introduced by microsoft.
+    - Typescript follows the OOPs.
+    - If we develop ReactJS applications with Typescript automatically 
+    we are getting OOPs benefits.  
+    - we will save Typescript files in ReactJS with ".tsx" extentsion.
+            => Typescript + xml
+    - Babel is the tool (inbuilt tool for react library) used to convert 
+    the Typescript to equivalent javascript.
+    - React applications are faster compared to other frameworks
+    because of "Virtual DOM".
+    - React applications are component based applications.
+    - ReactJS divides the applications into multiple components, 
+    so automatically modularity increases.
+    - React Components are Reusable.
+    - As a React Developer, we can provide communication between one
+    component to another component.
+
+Environmental Setup
+-------------------
+    1) NodeJS
+        -"npm" stands for node packaging manager.
+        -"npm" helps to install the react software.
+        -"npx" stands for node packaging runner.
+        -"npx" helps to create the react application.     
+website : https://nodejs.org/en/download/
+file : node -v14.15.2 -x64.msi 
+
+    2) Yarn tool
+        - Yarn tool, used to download the 3rd party libraries.
+        > npm install -g Yarn
+        => "-g" stands for global installation
+
+    3) install "create-react-app" tool
+        -"create-react-app" tool provided by facebook.
+        -"create-react-app" tool, helps to create the react application.
+        > npm install -g create-react-app
