@@ -76,7 +76,7 @@ Creating the react application
     1)node_modules
         - it contains libraries, and these libraries helps to execute the react application
     2) public/favicon.ico 
-        - This is teh default logo of react
+        - This is the default logo of react
     3) public/index.html
         - React starts the execution from "index.html" file
         - "index.html" file also called as main template
@@ -107,4 +107,26 @@ Creating the react application
     14) package.json 
         - used to download the 3rd party libraries. 
     15) tsconfig.json 
-        - this file representing the typescript configuration. 
+        - this file representing the typescript configurations.
+
+Component 
+---------
+    -React application is collabration of Components.
+    -As a React Developer, we can create more than one component.
+    -As a React Developer, we can provide communication between one component to another component.
+    -React supports two types of component.
+        1) Functional Level Component (Stateless component)
+        2) Class Level Component (statefull component)
+
+Functional Components 
+--------------------- 
+    -simple "function" behaves like component. 
+    -"React" is the predefined "class" provides the "component" environment. 
+
+    *****************************************
+    demo-app 
+            src 
+                First.tsx 
+                index.tsx 
+    ***************************************** 
+              
